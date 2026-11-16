@@ -1,0 +1,49 @@
+# Ignore Visual Studio cache and temp files
+.vs/
+*.slnx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+bin/
+obj/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Backup / temp files
+*.tmp
+*.bak
+
+# IDE-specific junk
+*.swp
+*.swn
+*.swm
+*.swo
+
+# JetBrains (if you ever use PyCharm)
+.idea/
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+
+# User Data
+favorite.json
+WeatherChecker/favorite.json
